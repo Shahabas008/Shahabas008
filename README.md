@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Coin Control](https://github.com/Shahabas008/Expense-Tracker)
 
-- 🌱 I’m currently learning **BLoC , Kotlin ,Android Native**
+- 🌱 I’m currently learning **BLoC , Kotlin , Android Native**
 
 - 👯 I’m looking to collaborate on [SAAT](https://github.com/Shahabas008/SAAT)
 
