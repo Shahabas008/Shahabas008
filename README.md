@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahabas Paramban</h1>
 <h3 align="center">A passionate freelance application and web developer from Kerala, India</h3>
 
-- 🌱 I’m currently learning **NODE JS, FLYER DESIGN, WEB DEESIGN**
+- 🌱 I’m currently learning **NODE JS, POSTER DESIGN, WEB DEESIGN**
 
 - 📫 How to reach me **shahabaspm500@gmail.com**
 
